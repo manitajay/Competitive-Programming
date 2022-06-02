@@ -11,10 +11,11 @@ problemset:
     https://codeforces.com/problemset/problem/1633/D
     https://codeforces.com/problemset/problem/1557/C 
     
-  
-  video sources: 
-    aditya verma's playlist:
     
-    https://www.youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go
+    some other problems:
+   
+    https://cp-algorithms.com/dynamic_programming/zero_matrix.html
+    
+ 
     
     
