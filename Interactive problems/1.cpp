@@ -7,6 +7,12 @@
 // sab moh maya hai....
  
 // waiting....
+
+/*
+  basically personally problem looks difficult to approach but after having look at constraint which are
+queries<=31 and (a and b <= 2 x 10^9 ) by which i started thinking about bits.
+so hint : bits. 
+*/
  
 #include <bits/stdc++.h>
 using namespace std;
@@ -57,3 +63,4 @@ int main()
     }
     return 0;
 }
+
