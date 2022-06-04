@@ -1,18 +1,18 @@
 Interactive problems are basically very interesting part of programming they are easy to approach. 
   https://codeforces.com/blog/entry/45307
   
-# practice problems:-  
-    1. https://codeforces.com/problemset/problem/1665/D  
-    2. https://codeforces.com/problemset/problem/1634/D  
-    3. https://codeforces.com/problemset/problem/1621/C  
-    4. https://codeforces.com/problemset/problem/1617/D1  
-    5. https://codeforces.com/problemset/problem/1617/D2  
-    6. https://codeforces.com/problemset/problem/1583/D  
-    7. https://codeforces.com/problemset/problem/1556/D  
-    8. https://codeforces.com/problemset/problem/1534/D  
-    9. https://codeforces.com/problemset/problem/1486/C1  
-    10. https://codeforces.com/problemset/problem/1486/C2  
-    11. https://codeforces.com/contest/1688/problem/E
+# practice problems:-   
+  1. https://codeforces.com/problemset/problem/1665/D  
+  2. https://codeforces.com/problemset/problem/1634/D  
+  3. https://codeforces.com/problemset/problem/1621/C  
+  4. https://codeforces.com/problemset/problem/1617/D1  
+  5. https://codeforces.com/problemset/problem/1617/D2  
+  6. https://codeforces.com/problemset/problem/1583/D  
+  7. https://codeforces.com/problemset/problem/1556/D  
+  8. https://codeforces.com/problemset/problem/1534/D  
+  9. https://codeforces.com/problemset/problem/1486/C1  
+  10. https://codeforces.com/problemset/problem/1486/C2  
+  11. https://codeforces.com/contest/1688/problem/E
     
     
     
