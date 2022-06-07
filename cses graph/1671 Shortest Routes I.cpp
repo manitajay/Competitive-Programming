@@ -5,6 +5,8 @@
 // give me some sunshine, give me some rain, give me another chance to grow up once again....
  
 // sab moh maya hai....
+
+// just standard dijkastra algorithms
  
 #include <bits/stdc++.h>
 using namespace std;
