@@ -6,6 +6,8 @@
 
 // sab moh maya hai....
 
+// problem is asking about finding cycle with length>=3
+
 #include <bits/stdc++.h>
 using namespace std;
 
