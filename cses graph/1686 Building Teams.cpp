@@ -5,6 +5,20 @@
 // give me some sunshine, give me some rain ,give me another chance to grow up once again....
  
 // sab moh maya hai....
+
+/*
+test case for "impossible":
+3 3
+1 2 
+1 3
+2 3
+
+basically using level order traversal technique using bfs if on the odd level we will give 1 to all the elements and on even level we will give 2
+or we can use it using dfs simply maintaining a fucntion
+dfs(node,flag);
+where flag will be reverse after each iteration 
+color=flag?1:2;
+*/
  
 #include <bits/stdc++.h>
 using namespace std;
