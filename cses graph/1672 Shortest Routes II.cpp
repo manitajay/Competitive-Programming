@@ -5,6 +5,12 @@
 // give me some sunshine, give me some rain, give me another chance to grow up once again....
  
 // sab moh maya hai....
+
+/*
+floyd-warshall algorithm:
+
+https://cp-algorithms.com/graph/all-pair-shortest-path-floyd-warshall.html
+*/
  
 #include <bits/stdc++.h>
 using namespace std;
