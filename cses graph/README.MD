@@ -1,7 +1,7 @@
 solve cses problemset and learn concept with problems.
 
 # CP algothims:- 
-https://cp-algorithms.com/graph
+https://cp-algorithms.com/
 
 # CSES handbook :- 
 https://cses.fi/book/book.pdf
