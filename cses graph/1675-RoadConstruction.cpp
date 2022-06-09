@@ -8,9 +8,7 @@
 
 
 /*
-basically it is prim's algo :
-we can implement it if we have knowledge of dijkastra even if we don't know about prim's algo...
-https://cp-algorithms.com/graph/mst_prim.html
+dijkastra.
 
 */
 
