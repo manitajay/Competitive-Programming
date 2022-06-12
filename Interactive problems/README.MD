@@ -13,6 +13,7 @@ Interactive problems are basically very interesting part of programming they are
   9. https://codeforces.com/problemset/problem/1486/C1  
   10. https://codeforces.com/problemset/problem/1486/C2  
   11. https://codeforces.com/contest/1688/problem/E
+  12. https://codeforces.com/contest/1697/problem/D 
     
     
     
