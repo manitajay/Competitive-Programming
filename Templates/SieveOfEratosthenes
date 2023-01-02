@@ -1,0 +1,32 @@
+
+ 
+ vector<ll> pmfactor;
+ 
+void SieveOfEratosthenes(ll n)
+{
+    vector<bool> prime(n + 1, true);
+    // memset(prime, true, sizeof(prime));
+ 
+    for (ll p = 2; p * p <= n; p++)
+    {
+        if (prime[p] == true)
+        {
+            for (ll i = p * p; i <= n; i += p)
+            {
+                prime[i] = false;
+            }
+        }
+    }
+ 
+    prime[1] = true;
+ 
+    // pmfactor.push_back(1);
+    for (ll i = 2; i <= n; i++)
+    {
+        if (prime[i])
+        {
+            pmfactor.push_back(i);
+        }
+    }
+}
+ 
