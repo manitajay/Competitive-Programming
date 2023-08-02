@@ -1,0 +1,76 @@
+
+
+ll power(ll a,ll b){
+    ll val=a;
+
+
+    ll ans=1;
+
+    ll temp=b;
+    while(temp!=0){
+        if(temp%2){
+            ans*=(val);
+            ans%=mod;
+        }
+        val*=val;
+        val%=mod;
+        temp/=2;
+    }
+
+    return ans;
+
+
+
+
+}
+
+ll sum(ll x,ll y){
+
+    return (x%mod + y%mod)%mod;
+
+}
+
+
+ll mul(ll x,ll y){
+
+    return ((x%mod)*(y%mod))%mod;
+
+}
+
+
+ll subs(ll x,ll y){
+    return (x%mod - y%mod + mod)%mod;
+}
+
+
+
+ll fact[3000005];
+ll inver[3000005];
+
+void calculate(){
+    // cout<<"YES"<<endl;
+
+    fact[0]=1;
+    fact[0]%=mod;
+
+
+    for(ll i=1;i<=3000004;i++){
+        fact[i]=(fact[i-1]*i)%mod;
+    }
+
+    inver[3000004]=power(fact[3000004],mod-2);
+
+    for(ll i=3000004;i>0;i--){
+        inver[i-1]=inver[i]*i;
+        inver[i-1]%=mod;
+    }
+
+
+
+}
+
+
+ll nCr(ll n,ll r){
+    return (((fact[n]*inver[r])%mod)*inver[n-r])%mod;
+}
+
